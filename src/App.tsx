@@ -17,10 +17,10 @@ function App() {
                 <div className="space-y-8">
                   <section className="text-center space-y-4">
                     <h1 className="text-4xl font-bold text-gray-900">
-                      Interactive 3D Platform
+                      Futuristic Dental Prosthesis
                     </h1>
                     <p className="text-xl text-gray-600 max-w-2xl mx-auto">
-                      Explore and interact with stunning 3D models in real-time
+                      Explore and customize your personalized dental prosthesis with our advanced 3D technology
                     </p>
                   </section>
 
@@ -33,26 +33,26 @@ function App() {
                   <section className="grid md:grid-cols-3 gap-8">
                     <div className="bg-white p-6 rounded-lg shadow-md">
                       <h3 className="text-xl font-semibold mb-2">
-                        High Performance
+                        Precision Engineering
                       </h3>
                       <p className="text-gray-600">
-                        Optimized 3D rendering engine for smooth interactions
+                        Our advanced 3D printing technology ensures precise and durable dental prostheses
                       </p>
                     </div>
                     <div className="bg-white p-6 rounded-lg shadow-md">
                       <h3 className="text-xl font-semibold mb-2">
-                        Secure Authentication
+                        Secure Customization
                       </h3>
                       <p className="text-gray-600">
-                        Enterprise-grade security for your peace of mind
+                        Secure and private customization process for your personalized dental prosthesis
                       </p>
                     </div>
                     <div className="bg-white p-6 rounded-lg shadow-md">
                       <h3 className="text-xl font-semibold mb-2">
-                        Analytics Insights
+                        Expert Consultation
                       </h3>
                       <p className="text-gray-600">
-                        Detailed usage analytics and user behavior tracking
+                        Access to expert dental professionals for personalized consultation and support
                       </p>
                     </div>
                   </section>
